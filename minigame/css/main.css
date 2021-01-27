@@ -1,11 +1,16 @@
 #container{
 	width:700px;
-	margin-right: auto;
-	margin-left : auto;
+	margin:0 auto;
 	background:#00a0e6;
 	text-align:center;
 }
-#img{
-	margin-right: auto;
-	margin-left : auto;
+input.bt{
+	font-size:3em;
+	font-weight:bold;
+	padding:5px 20px;
+	border-radius:50% 20%/10% 40%;
+	margin:0 auto;
+}
+p.hoi{
+	font-size:2em;
 }
